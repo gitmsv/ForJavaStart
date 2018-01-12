@@ -13,6 +13,7 @@ public class ForJavaStart {
                 }
                 System.out.println(i); // output of variable i;
             }
+
         }
 
     }
